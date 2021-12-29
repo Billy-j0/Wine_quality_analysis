@@ -3,6 +3,10 @@
 
 # Confounding Variables with Wine Quality <img src="img/wine.jpg" align="right" width="120" />
 
+[R-Code](https://github.com/Billy-j0/Wine_quality_analysis/blob/main/winequality_analysis.Rmd)
+
+[Data-set](https://github.com/Billy-j0/Wine_quality_analysis/tree/main/Datasets)
+
 ## Introduction
 
 Confounding variables (also known as lurking variables) are essentially
@@ -86,6 +90,7 @@ come up with 2 different approaches:
 
 2.  **Correlation Matrix**: Using correlation matrix to identify which
     variables are highly correlated to each other.
+    
 
 ## Assumption Approach
 
